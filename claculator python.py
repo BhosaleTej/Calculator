@@ -1,6 +1,5 @@
-# Program make a simple calculator
+# Program make a simple calculator for user.
 #second project 
-#second project tejas
 # This function adds two numbers
 def add(x, y):
     return x + y
